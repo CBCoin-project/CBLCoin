@@ -5,7 +5,7 @@ CBLCoin Specs:
     Algorithm:                        POS + MASTERNODE
     Ticker:                           CBL
     Block time:                       120 seconds
-    Max Supply:                       43 298 969 CBLs
+    Max Supply:                       2,10,00,000 CBLs
     Transaction confirmation:         15 blocks
     Mining maturation time:           20 blocks
     P2P Port:                         48223
